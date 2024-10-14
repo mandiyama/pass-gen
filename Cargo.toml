@@ -1,0 +1,11 @@
+[package]
+name = "pass-gen"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mandiyama"]
+license = "MIT"
+repository = "https://github.com/mandiyama/pass-gen"
+description = "Password Generator on Rust"
+
+[dependencies]
+rand = "0.8"
